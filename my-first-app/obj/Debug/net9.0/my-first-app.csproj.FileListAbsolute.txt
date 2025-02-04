@@ -31,3 +31,7 @@
 /home/kali/Documents/devops/my-first-app/obj/Debug/net9.0/my-first-app.pdb
 /home/kali/Documents/devops/my-first-app/obj/Debug/net9.0/my-first-app.genruntimeconfig.cache
 /home/kali/Documents/devops/my-first-app/obj/Debug/net9.0/ref/my-first-app.dll
+/home/kali/Documents/devops/my-first-app/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/kali/Documents/devops/my-first-app/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/kali/Documents/devops/my-first-app/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/kali/Documents/devops/my-first-app/obj/Debug/net9.0/my-first-app.sourcelink.json
