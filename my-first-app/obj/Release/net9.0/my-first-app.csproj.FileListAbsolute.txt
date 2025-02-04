@@ -1,0 +1,8 @@
+/home/kali/Documents/devops/my-first-app/obj/Release/net9.0/my-first-app.csproj.AssemblyReference.cache
+/home/kali/Documents/devops/my-first-app/obj/Release/net9.0/my-first-app.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Documents/devops/my-first-app/obj/Release/net9.0/my-first-app.AssemblyInfoInputs.cache
+/home/kali/Documents/devops/my-first-app/obj/Release/net9.0/my-first-app.AssemblyInfo.cs
+/home/kali/Documents/devops/my-first-app/obj/Release/net9.0/my-first-app.csproj.CoreCompileInputs.cache
+/home/kali/Documents/devops/my-first-app/obj/Release/net9.0/my-first-app.MvcApplicationPartsAssemblyInfo.cs
+/home/kali/Documents/devops/my-first-app/obj/Release/net9.0/my-first-app.MvcApplicationPartsAssemblyInfo.cache
+/home/kali/Documents/devops/my-first-app/obj/Release/net9.0/my-first-app.sourcelink.json
